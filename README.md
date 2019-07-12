@@ -14,3 +14,7 @@ __ Problem Statement __
     3-> We are tasked with predicting whether a pair of questions are duplicates or not.
 
 
+Dataset link:
+
+https://drive.google.com/open?id=1OWZoiQDvAvgOa-IUnEQ-6QKSEp_pw1XO
+
